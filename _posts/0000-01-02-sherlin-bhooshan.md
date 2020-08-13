@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+birds of same feather flock together
 Use the left arrow to go back!
